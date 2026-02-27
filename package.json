@@ -1,0 +1,10 @@
+{
+  "name": "playwright-table-sums",
+  "version": "1.0.0",
+  "scripts": {
+    "scrape": "playwright run scrape.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
